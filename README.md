@@ -43,4 +43,4 @@ In this program I used data visualizations which are pictured below
 
 
 # Contributors
-[Email](beccabeastly@gmail.com)
+[Beccas_Email](beccabeastly@gmail.com)
