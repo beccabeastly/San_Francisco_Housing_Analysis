@@ -1,5 +1,5 @@
 # San Francisco Housing Project
-In this project I analyzed data from San Francisco and used visualization to convey what the data was telling. Hvplot and Geoviews were used to discover what neighboohds from 2010 - 2016 were on the rise in rent and sales cost per square square foot. This gave insight into an analysis that can be developed for future investors.
+In this project I analyzed data from San Francisco and used visualization to convey what the data was telling. Hvplot and Geoviews were used to discover what neighborhoods from 2010 - 2016 were on the rise (or on the low) in rent and sales cost per square foot. This gave insight into an analysis that can be developed for future investors.
 
 ---
 # Technologies
@@ -26,7 +26,7 @@ Install Geoviews here: use this link [Geoviews how to](https://pypi.org/project/
 **or in gitbash use** `pip install geoviews`
 
 
-utilize hvplot by including code `import hvplot.pandas` library
+**utilize hvplot by including code `import hvplot.pandas` library**
 ---
 # license
 **Educational purposes**
